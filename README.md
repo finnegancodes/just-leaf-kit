@@ -19,3 +19,7 @@ Leaf is a templating language for generating dynamic content such as HTML using 
 LeafKit is the main templating language for Vapor.
 
 For more details, check out the [docs](https://docs.vapor.codes/leaf/getting-started/).
+
+## Fork
+
+This is a fork of LeafKit aiming to make the Leaf templating language usable standalone without Vapor. My goal is to eventually make a static site generator with Leaf.
